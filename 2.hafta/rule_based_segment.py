@@ -23,3 +23,7 @@ plt.show(block=True)
 
 
 df.describe().T
+
+
+df[df["embarked"] == "S"].head(20)
+
