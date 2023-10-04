@@ -1,4 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
+  <component name="Black">
+    <option name="sdkUUID" value="7144358f-2746-4a54-86c0-69a5015879a8" />
+  </component>
   <component name="ProjectRootManager" version="2" project-jdk-name="Python 3.10 (gurkan)" project-jdk-type="Python SDK" />
 </project>
